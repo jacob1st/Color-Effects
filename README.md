@@ -9,3 +9,5 @@ The bar by this field can be used to pick random color. The font will change to 
 The white grid on the left can be used to draw. The cariables "width_of_pixel" and "width of grid" on lines 145 and 148 can be changed to alter the size of the grid.
 
 Other than that, press the buttons labeled accrodingly to mess around adding filters!
+
+https://stackoverflow.com/questions/36617218/what-is-the-mathematics-behind-the-css-filters - has a post labeling some neat math to accomplish certain color filters!
